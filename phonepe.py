@@ -34,7 +34,7 @@ if app_mode == 'Home':
         "Welcome to PhonePe Pulse Data Visualization. This app provides insightful analysis and visualization of "
         "transaction data from the PhonePe digital payment platform."
     )
-    st.image("/home/arthi/project/phonepe_new_project/How-PhonePe-earns-money-StartupTalky.jpg")
+    st.image("How-PhonePe-earns-money-StartupTalky.jpg")
     st.write('\n')
     st.markdown("<h2>How could this app be useful </h2>", unsafe_allow_html=True)
     st.write('\n')
