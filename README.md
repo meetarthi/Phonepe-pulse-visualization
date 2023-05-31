@@ -37,3 +37,11 @@ Phonepe pulse visualization app is a application that provides valuable insights
 
 1. The user is supposed to choose either India or any of the states from the dropdown, select the year and type of transaction category.
 2. Based on user input, Bar graph is generated.
+
+
+**Map Transaction Analysis Page**
+------------
+![Screenshot from 2023-05-31 18-48-41](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/126043c5-4ce6-497a-bbb6-d721290b1344)
+![Screenshot from 2023-05-31 18-52-20](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/46e23d79-44fb-43d6-9bdd-9c20b6d07c1a)
+
+
