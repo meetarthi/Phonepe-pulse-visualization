@@ -71,3 +71,11 @@ Phonepe pulse visualization app is a application that provides valuable insights
 2. If India is chosen in region, three options in location type would appear.
 ![Screenshot from 2023-05-31 20-01-47](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/5d5c3071-0659-491d-8a94-fd1f5110e85e)
 ![Screenshot from 2023-05-31 20-02-19](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/f567b89d-a633-4c98-9f2d-2b249c558659)
+
+3. If any state is chosen in region, two options in location type would appear.
+![Screenshot from 2023-05-31 20-06-13](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/441d3335-b3ab-4702-9efb-b0d50ea69741)
+![Screenshot from 2023-05-31 20-06-56](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/0b0f931c-c15b-4ab7-b10b-9c0e338460c8)
+
+
+**Top Locations based on User activity data Page**
+------------
