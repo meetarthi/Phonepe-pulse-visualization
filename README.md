@@ -19,3 +19,7 @@ Phonepe pulse visualization app is a application that provides valuable insights
 ------------
 ![Screenshot from 2023-05-31 17-24-53](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/2417ebc4-292b-4ac4-8ed3-53aaad0b2014)
 
+**Side bar**
+------------
+![Screenshot from 2023-05-31 17-36-53](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/3ec15aef-b24a-4d78-96ec-a94286ffbb4d)
+
