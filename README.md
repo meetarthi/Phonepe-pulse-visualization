@@ -49,6 +49,10 @@ Phonepe pulse visualization app is a application that provides valuable insights
 2. Based on user input, Map is generated with spots on districts of the region, which gives information on total transaction and total transaction value.
 
 
+
+
+
+
 **User Activity Page**
 ------------
 ![Screenshot from 2023-05-31 19-10-06](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/88c04a0c-f616-44d2-9683-2ee05a977142)
