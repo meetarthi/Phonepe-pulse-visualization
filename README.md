@@ -8,6 +8,7 @@
 ------------
 Phonepe pulse visualization app is a application that provides valuable insights and analysis of data from the PhonePe digital payment platform. This app contains visualizations for better understanding of payment categories, transaction patterns, user activity, and top locations.
 
+
 **Developed using:**
 ------------
 1. **Language** - Python 
@@ -28,7 +29,7 @@ Phonepe pulse visualization app is a application that provides valuable insights
 ![Screenshot from 2023-05-31 17-36-53](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/3ec15aef-b24a-4d78-96ec-a94286ffbb4d)
 
 
-
+------------
 **Payment category Analysis Page**
 ------------
 ![Screenshot from 2023-05-31 17-40-53](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/9e8baba8-fd26-4495-ac66-25c8ce44af9a)
@@ -38,7 +39,7 @@ Phonepe pulse visualization app is a application that provides valuable insights
 1. The user is supposed to choose either India or any of the states from the dropdown, select the year and type of transaction category.
 2. Based on user input, Bar graph is generated.
 
-
+------------
 **Map Transaction Analysis Page**
 ------------
 ![Screenshot from 2023-05-31 18-48-41](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/126043c5-4ce6-497a-bbb6-d721290b1344)
@@ -49,7 +50,7 @@ Phonepe pulse visualization app is a application that provides valuable insights
 2. Based on user input, Map is generated with spots on specific locations(if the input is **India** the spots are on the states, if the input is **states** the spots are on the districts), which gives information on total transaction and total transaction value.
 
 
-
+------------
 **User Activity Page**
 ------------
 ![Screenshot from 2023-05-31 19-10-06](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/88c04a0c-f616-44d2-9683-2ee05a977142)
@@ -60,6 +61,6 @@ Phonepe pulse visualization app is a application that provides valuable insights
 1. The user is supposed to choose either India or any of the states from the dropdown, select the year.
 2. Based on user input,Time series graph is generated. On hovering over the peaks corresponding to the locations, the registered users count and app open counts are shown.
 
-
+------------
 **Top Locations based on Transaction data Page**
 ------------
