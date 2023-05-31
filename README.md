@@ -87,6 +87,10 @@ Phonepe pulse visualization app is a application that provides valuable insights
 ![Screenshot from 2023-05-31 20-24-42](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/e65ff168-5ce5-4ced-8003-7f5b24c954d3)
 ![Screenshot from 2023-05-31 20-25-34](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/dbbd434c-f036-4a58-ae89-d8788a9027e9)
 
+3. If any state is chosen in region, two options in location type would appear.
+![Screenshot from 2023-05-31 20-29-14](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/1eb001e0-05ba-4f44-a043-72c151753102)
+![Screenshot from 2023-05-31 20-29-44](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/53a924ac-4096-4002-968a-1d2b088b27a0)
 
+4. Based on user input , the top 10 locations are displayed using a pie chart
 
 
