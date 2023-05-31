@@ -13,3 +13,7 @@ Phonepe pulse visualization app is a application that provides valuable insights
 2. **Libraries** - Pandas(Dataframe) , Matplotlib(Chart), Plotly(Graph and charts), geopandas(Map)
 
 3. **Front-end/GUI** - Streamlit
+
+
+**Home Page**
+------------
