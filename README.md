@@ -76,6 +76,17 @@ Phonepe pulse visualization app is a application that provides valuable insights
 ![Screenshot from 2023-05-31 20-06-13](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/441d3335-b3ab-4702-9efb-b0d50ea69741)
 ![Screenshot from 2023-05-31 20-06-56](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/0b0f931c-c15b-4ab7-b10b-9c0e338460c8)
 
+4. Based on user input , the top 10 locations are displayed using a pie chart
 
 **Top Locations based on User activity data Page**
 ------------
+
+1. The user is supposed to choose year, Quarter, Region (India or states), and location type.
+
+2. If India is chosen in region, three options in location type would appear.
+![Screenshot from 2023-05-31 20-24-42](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/e65ff168-5ce5-4ced-8003-7f5b24c954d3)
+![Screenshot from 2023-05-31 20-25-34](https://github.com/meetarthi/Phonepe-pulse-visualization/assets/112666126/dbbd434c-f036-4a58-ae89-d8788a9027e9)
+
+
+
+
